@@ -1,5 +1,5 @@
 def new_hash
-  numbers=new.hash
+  {}
   end
 
 def my_hash
@@ -7,7 +7,8 @@ def my_hash
 end
 
 def pioneer
-  
+  name=> ('Hannah Harrington')
+:name
 end
 
 def id_generator
